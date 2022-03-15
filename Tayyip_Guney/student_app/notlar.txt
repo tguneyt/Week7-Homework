@@ -1,0 +1,2 @@
+kemal,yilmaz,45,65,85
+ali,veli,88,99,92
